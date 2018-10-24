@@ -1,0 +1,21 @@
+p {
+    font-family: "Times New Roman", Times, serif;
+	margin-left: 250px;     
+}
+
+h1{
+	margin-left:100px;
+	color: black;
+	text-shadow: 2px 2px 1px red;
+}
+
+body{
+	border-style: outset;
+	background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+	
+	
+	
+	}
+	
+	
+	
