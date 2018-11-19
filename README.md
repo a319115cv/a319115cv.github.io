@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<img src="https://irocho.github.io/imaxes/logo.png" alt="" />
 
-You can use the [editor on GitHub](https://github.com/a319115cv/a319115cv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Traballando con HTML+CSS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Neste exercicio tes que modificar todo o que poidas para demostrar que entendes todas as etiquetas, propiedades, atributos,...
 
-### Markdown
+Arriba á dereita tes a opción de __clonar ou descargar__ a carpeta para traballar en local no teu ordenador. O contido non é moi especial:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* index.html
+* estilo.css
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Orixinalmente [atopeino aquí](http://designwoop.com/2013/12/30-open-source-css3-code-samples-web-developers/) pero fun tuneando paseniño unha das dúas versións
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a319115cv/a319115cv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Orixe: [este artigo de i-rochiño](https://wp.me/p2OwJM-1ak)
